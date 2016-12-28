@@ -1,15 +1,19 @@
 {
-    "name": "pdfify",
-    "main": "./lib/pdfify",
-    "version": "0.0.0",
-    "description": "Generate Octocat-friendly PDFs from Markdown",
-    "keywords": [
-        "pdfify", "pandoc", "wkhtmltopdf", "markdown", "github"
-    ],
-    "repository": "https://github.com/swinton/pdfify-atom",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "pdfify",
+  "main": "./lib/pdfify",
+  "version": "0.1.0",
+  "description": "Generate Octocat-friendly PDFs from Markdown",
+  "keywords": [
+    "pdfify",
+    "pandoc",
+    "wkhtmltopdf",
+    "markdown",
+    "github"
+  ],
+  "repository": "https://github.com/swinton/pdfify-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }

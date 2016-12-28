@@ -2,12 +2,18 @@
 
 Generate Octocat-friendly PDFs from Markdown, within Atom.
 
-Requires [`pdfify`](https://github.com/swinton/pdfify).
-
 ## Installation
 
-`TBD`
+After installing [`pdfify`](https://github.com/swinton/pdfify), install in the usual way, or via `apm`:
+
+```
+apm install pdfify
+```
+
+Consider also installing [`pdf-view`](https://atom.io/packages/pdf-view), enabling automatic preview of generated PDFs.
 
 ## Usage
 
-![pdfify-atom](https://cloud.githubusercontent.com/assets/27806/21529710/0b526dc4-cd01-11e6-8333-830b365daed6.gif)
+Use the `ctrl-option-p` keyboard shortcut, or select _PDFify_ from the context menu:
+
+![pdfify-atom](https://cloud.githubusercontent.com/assets/27806/21529893/5d0cb33a-cd02-11e6-8284-f0d369bf1b26.gif)

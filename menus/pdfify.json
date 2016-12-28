@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "PDFify",
+            "command": "pdfify:pdfify"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "PDFify",
+            "submenu": [{
+                "label": "PDFify",
+                "command": "pdfify:pdfify"
+            }]
+        }]
+    }]
+}

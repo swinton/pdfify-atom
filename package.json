@@ -1,7 +1,7 @@
 {
     "name": "pdfify",
     "main": "./lib/pdfify",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "description": "Generate Octocat-friendly PDFs from Markdown",
     "keywords": [
         "pdfify", "pandoc", "wkhtmltopdf", "markdown", "github"

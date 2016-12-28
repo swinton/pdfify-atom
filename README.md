@@ -10,4 +10,4 @@ Requires [`pdfify`](https://github.com/swinton/pdfify).
 
 ## Usage
 
-`TBD`
+![pdfify-atom](https://cloud.githubusercontent.com/assets/27806/21529710/0b526dc4-cd01-11e6-8333-830b365daed6.gif)
